@@ -10,3 +10,6 @@ Source of learning material is [Everything you need to become a TypeScript exper
 
 - ### Webpack TpeScript Configuration
   [02-webpack-typescript](02-webpack-typescript)
+
+- ### ES6/7 and TypeScript
+  [03-es6-7-and-typescript](03-es6-7-and-typescript)
