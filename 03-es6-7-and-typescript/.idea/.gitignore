@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/03-es6-7-and-typescript.iml
+/material_theme_project_new.xml
+/modules.xml
+/vcs.xml
